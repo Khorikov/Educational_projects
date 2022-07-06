@@ -1,2 +1,3 @@
-# Educational_projects
-The repository contains projects developed during the course of the training program "Data Analyst Plus" from Yandex.Practicum
+# Учебные проекты
+
+Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных плюс"
